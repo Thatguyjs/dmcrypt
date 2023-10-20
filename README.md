@@ -12,7 +12,7 @@ If the email address provided is incorrect, the resulting files might not contai
 invalid.
 
 ## Usage
-`dmcrypt <email> <inputs...> -o <output_dir> [-r]`
+`dmcrypt <email> <inputs...> -o <output_dir> [-r]`  
 Note: The output directory will be created if it doesn't already exist.
 
 ## Example
